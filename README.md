@@ -6,3 +6,9 @@
 2. Item 2
 3. Item 3
 
+## Table
+
+Name | Surname | Age
+-----|---------|----
+Alex | Schwarz | 25
+Michael | Schulz| 36
