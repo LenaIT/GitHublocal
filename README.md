@@ -14,3 +14,6 @@ Alex | Schwarz | 25
 Michael | Schulz| 36
 
 This is line has been added in the branch2-lena
+
+Text from branch3
+and some more
